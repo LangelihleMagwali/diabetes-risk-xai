@@ -429,3 +429,9 @@ Current progress:
 The final goal of this project is to build a machine learning model that can predict diabetes risk and explain the prediction results in a way that is understandable to non-technical stakeholders.
 
 The project aims to show how Explainable AI can make machine learning models more transparent, useful, and trustworthy in healthcare-related decision-making.
+
+```
+## AI Declaration
+
+During the development of this project, AI tools were used as a support tool to assist with planning, structuring, writing, and improving the clarity of the project documentation and code explanations.
+
